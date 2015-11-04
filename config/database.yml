@@ -52,6 +52,7 @@ test:
 
 production:
   adapter: postgresql
+  database: vn-dashes-test-production
   encoding: unicode
   pool: 5
   host: localhost
