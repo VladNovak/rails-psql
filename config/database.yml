@@ -53,7 +53,6 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: postgres_production
   pool: 5
   host: localhost
   port: 5432
